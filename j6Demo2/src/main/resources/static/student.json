@@ -1,0 +1,10 @@
+{
+	"name": "Nguyễn Hương",
+	"gender": true,
+	"marks": 8.5,
+	"contact": {
+		"email": "huongnt@gmail.com",
+		"phone": "034632002"
+	},
+	"subjects": ["WEB205", "COM108"]
+}
